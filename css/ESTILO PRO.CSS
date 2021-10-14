@@ -1,0 +1,44 @@
+body{
+    background:#BC8F8F;    
+}
+
+
+h1{
+    font-size: 40px;
+    background:#FFE4E1;
+    color:#8B4513;
+}
+
+.XRS{
+    
+
+    background:#00FFFF;
+    list-style: none;
+    padding: 0;
+    background:#F4A460;
+    width: 90%;
+    max-width: 200px;
+    margin:0px ; 
+
+}
+
+.XRS li a {                 /*Conjugation of colors*/
+    text-decoration: none;
+    color: white;
+    padding: 23px;
+    display: block;
+}
+
+.XRS li{
+    display: inline-block;
+    text-align: center;
+}
+
+.XRS li a:hover{
+    background:#B22222; /*Background tone*/
+}
+
+
+.f{
+    background-color:#CD5C5C;
+}

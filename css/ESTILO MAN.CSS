@@ -1,0 +1,39 @@
+body{                     /*Bodys structures*/
+    font-family: Arial, Helvetica;
+    background:#F08080;
+
+
+}
+
+.ma{
+    list-style: none;
+    padding: 0;
+    background:#CD5C5C ;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto ; 
+
+}
+
+
+.ma li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+
+.ma li{
+    display: inline-block;
+    text-align: center;
+}
+
+.ma li a:hover{
+    background:#DC143C;
+}
+
+
+.t{
+    background-color:#FFD700 ;
+}

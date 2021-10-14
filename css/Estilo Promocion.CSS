@@ -1,0 +1,44 @@
+body{
+    background:#FFC0CB;
+}
+
+
+h1{
+    font-size: 40px;  /*Conjugation of colors to select*/
+    background:#7B68EE;
+    color:#8A2BE2;
+}
+
+.button{
+    
+
+    background: #FF1493;    /*Bar tone*/
+    list-style: none;
+    padding: 0;
+    background:#DB7093 ;
+    width: 90%;
+    max-width: 200px;
+    margin:0px ; 
+
+}
+
+.button li a {
+    text-decoration: none;
+    color: white;
+    padding: 23px;
+    display: block;
+}
+
+.button li{
+    display: inline-block;
+    text-align: center;
+}
+
+.button li a:hover{
+    background:darkorchid;
+}
+
+
+.re{
+    background-color:#EE82EE ;
+}
